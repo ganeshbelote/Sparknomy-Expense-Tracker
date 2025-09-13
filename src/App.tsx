@@ -111,7 +111,7 @@ function App () {
                 <span className='font-semibold'>Time Period</span>
                 <span>dd:mm:yyyy-dd:mm:yyyy</span>
               </div>
-              <div className='flex flex-wrap gap-1'>
+              <div className='flex flex-wrap gap-2'>
                 <TimeBtn>1Month</TimeBtn>
                 <TimeBtn>3Months</TimeBtn>
                 <TimeBtn>1Year</TimeBtn>

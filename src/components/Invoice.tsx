@@ -51,11 +51,11 @@ const Invoice = ({
     <div className='invoice shrink-0 flex gap-8 items-center justify-between w-fit min-w-[340px] p-4 border-2 border-[#F2F2F2] rounded-2xl overflow-hidden'>
       <div className='left'>
         <h2 className='name text-[#6B7280] font-medium'>{Title}</h2>
-        <p className='text-[12px] text-[#999999] font-normal'>{Transaction}</p>
+        <p className='text-[12px] text-[#999999] font-semibold'>{Transaction}</p>
       </div>
       <div className='right'>
         {Status ? (
-          <div className="flex gap-1">
+          <div className="flex gap-2">
             <div
             style={{
               background: InvoiceDetails[Status].background,
