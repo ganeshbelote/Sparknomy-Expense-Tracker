@@ -5,6 +5,13 @@ The application is built using **React**, **TypeScript**, and **TailwindCSS**, f
 
 ---
 
+<div style="display: flex; gap: 10px;">
+  <img src="public/desktop-view.png" alt="Dashboard" width="400"/>
+  <img src="public/mobile-view.pngg" alt="Transactions" width="400"/>
+</div>
+
+---
+
 ## 🚀 Tech Stack
 - **React** ⚛️ – Component-based UI development
 - **TypeScript** 🔹 – Type-safe JavaScript for reliability
