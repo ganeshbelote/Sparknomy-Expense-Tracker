@@ -7,7 +7,7 @@ The application is built using **React**, **TypeScript**, and **TailwindCSS**, f
 
 <div style="display: flex; gap: 10px;">
   <img src="public/desktop-view.png" alt="Dashboard" width="400"/>
-  <img src="public/mobile-view.pngg" alt="Transactions" width="400"/>
+  <img src="public/mobile-view.png" alt="Transactions" width="400"/>
 </div>
 
 ---
